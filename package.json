@@ -2,10 +2,13 @@
   "name": "esercizinode",
   "version": "1.0.0",
   "description": "ciaao",
-  "main": "esercizio1.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
 }
